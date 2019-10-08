@@ -1,0 +1,447 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.244093,
+                    41.141436
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.249249,
+                    41.100374
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.198431,
+                    41.130367
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.280214,
+                    41.075848
+                ]
+            },
+            "properties": {
+                "callType": "Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.135372,
+                    41.082165
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.149819,
+                    41.154321
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.153458,
+                    41.184288
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.158239,
+                    41.016372
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.069018,
+                    41.133874
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.076188,
+                    41.108633
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.028968,
+                    41.134144
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.074620,
+                    41.171620
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.982330,
+                    41.087917
+                ]
+            },
+            "properties": {
+                "callType": "Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.939299,
+                    41.107025
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.925620,
+                    41.158290
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.902929,
+                    41.146098
+                ]
+            },
+            "properties": {
+                "callType": "Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.958538,
+                    41.183846
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.244093,
+                    41.141436
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.230249,
+                    41.190374
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.058431,
+                    41.130367
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.230214,
+                    41.145848
+                ]
+            },
+            "properties": {
+                "callType": "Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.105372,
+                    41.102165
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.199819,
+                    41.174321
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.103458,
+                    41.184288
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.158239,
+                    41.086372
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.209018,
+                    41.133874
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.006188,
+                    41.148633
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.108968,
+                    41.134144
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.074620,
+                    41.101620
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.002330,
+                    41.087917
+                ]
+            },
+            "properties": {
+                "callType": "Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.949299,
+                    41.100990
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.049299,
+                    41.158290
+                ]
+            },
+            "properties": {
+                "callType": "Property Crime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.907929,
+                    41.156098
+                ]
+            },
+            "properties": {
+                "callType": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.960538,
+                    41.103846
+                ]
+            },
+            "properties": {
+                "callType": "Violent Crime"
+            }
+        }
+    ]
+}
